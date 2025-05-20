@@ -1,0 +1,8 @@
+
+path: /Users/rohaniyer/Downloads/mock5/paytm-dataset  # Change this to the actual path you used
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: paytm_logo
